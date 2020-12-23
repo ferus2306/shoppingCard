@@ -9,6 +9,8 @@ import ProductScreen from './screens/ProductScreen';
 
 function App() {
   return (
+    // surround Router around the components.
+    // exact => meaning 
     <Router>
     <Header />
       <main className="py-3">
